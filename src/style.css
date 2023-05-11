@@ -1,0 +1,49 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: blueviolet;
+}
+.title{
+    color: white;
+    font-size: 85px;
+    animation: flipTitle 2s;
+}
+
+@keyframes flipTitle {
+    from{
+        transform: rotateX(90deg)
+
+    }to{
+        transform: rotateX(0deg);
+
+    }
+}
+
+.containerInput{
+    background-color: gray;
+    padding: 15px;
+    margin: 34px 0;
+    display: flex;
+    border-radius: 8px;
+    box-shadow: 1px 3px 8px black;
+}
+.containerInput input{
+    background-color: transparent;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+}
+.containerInput input::placeholder{
+    color: #F1F1F1;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    width: 500px;
+}
