@@ -1,3 +1,5 @@
+![image](https://github.com/DaviErick/LocalizaCEP-usandoAPI-React.js/assets/121051426/09c50701-cb65-4675-a8ce-9b7618497385)
+
 # My React App
 
 Bem vindo ao meu projeto que busca o endereço baseado no CEP de uma pessoa.
@@ -45,4 +47,7 @@ Copy code
 npm start
 
 Acesse a URL http://localhost:3000 em seu navegador.
+
+![image](https://github.com/DaviErick/LocalizaCEP-usandoAPI-React.js/assets/121051426/e439922a-877f-492a-be42-4ac46a690232)
+
 
