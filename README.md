@@ -50,4 +50,4 @@ Acesse a URL http://localhost:3000 em seu navegador.
 
 ![image](https://github.com/DaviErick/LocalizaCEP-usandoAPI-React.js/assets/121051426/e439922a-877f-492a-be42-4ac46a690232)
 
-
+OBS: Não esqueça de baixar a api do CEP, para fazer isso, saia do projeto usando o comando **exit** e coloque o comando **npm install axios**
