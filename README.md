@@ -23,7 +23,7 @@ bash
 
 Copy code
 
-git clone *https://github.com/seu-usuario/my-react-app.git*
+git clone *https://github.com/davierick/my-react-app.git*
 
 # Instale as dependências do projeto:
 
